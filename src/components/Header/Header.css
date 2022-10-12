@@ -1,0 +1,18 @@
+.menu {
+    background-color: thistle;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 15px;
+    background-color: teal;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    border: 2px solid ;
+}

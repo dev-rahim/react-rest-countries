@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <h1>welcome to React</h1>
       <Countries></Countries>
     </div>
   );

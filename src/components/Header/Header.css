@@ -1,5 +1,5 @@
 .menu {
-    background-color: thistle;
+    background-color: powderblue;
     height: 50px;
     display: flex;
     justify-content: space-around;
@@ -10,7 +10,7 @@
     text-decoration: none;
     color: black;
     padding: 5px 15px;
-    background-color: teal;
+    background-color: cornflowerblue;
     color: white;
     font-weight: 400;
     border-radius: 5px;

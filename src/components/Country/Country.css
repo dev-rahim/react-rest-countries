@@ -1,11 +1,18 @@
 .Box {
-    padding: 10px;
+    padding: 10px 0;
     /* border: 5px solid black; */
     border-radius: 20px;
-    border-bottom: 50px solid lightpink;
+    /* border-bottom: 50px solid lightpink; */
+    color: azure;
     /* border-image-slice: 10 0 0 0; */
     scale: 1;
-    margin: 50px;
+    margin: 30px;
     /* color: ; */
-    background: linear-gradient(tomato, salmon);
+    background: cornflowerblue;
+}
+
+.Box img {
+    border: 2px solid azure;
+    border-radius: 5px;
+    width: 250px;
 }
